@@ -1,0 +1,1 @@
+# Write-Text-in-GIF
